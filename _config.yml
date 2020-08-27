@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Chanwoo Lee(Richard)"
-resume_title:                   "Information Security Architect & Engineer"
+resume_title:                   "Professional Information Security Architect & Engineer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "jg719411@nate.com"
@@ -23,7 +23,7 @@ resume_contact_address:         "410, Wangsimni-ro, Seongdong-gu, Seoul, Republi
 resume_header_contact_info:     "410, Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea • jg719411@nate.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p> I believe that technology changes people </p>"
+resume_header_intro: "<p> Finance Security | Cloud Security | Compliance Management | CISA | Security instructor </p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
