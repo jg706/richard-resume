@@ -21,7 +21,7 @@ resume_contact_telephone:       "+82-10-4772-0130"
 resume_contact_address:         "410, Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea"
 
 resume_header_contact_info:     "410, Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea • +82-10-4772-0130 • jg719411@nate.com"
-display_header_contact_info:    "true"
+display_header_contact_info:    "false"
 
 resume_header_intro: "<p> I believe that technology changes people </p>"
 
