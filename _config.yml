@@ -18,9 +18,9 @@ resume_contact_email:           "jg719411@nate.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "false"
-resume_contact_address:         "410, Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea"
+resume_contact_address:         "Seoul, Republic of Korea"
 
-resume_header_contact_info:     "410, Wangsimni-ro, Seongdong-gu, Seoul, Republic of Korea • jg719411@nate.com"
+resume_header_contact_info:     "Seoul, Republic of Korea • jg719411@nate.com • Coupnag Principal Engineer"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p> Finance Security | Cloud Security | Compliance Management | CISA | Security instructor </p>"
