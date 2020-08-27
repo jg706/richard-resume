@@ -1,6 +1,6 @@
 # Resume template
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+*안녕하세요. 이찬우입니다.*
 
 ![img](images/screenshot.png)
 
